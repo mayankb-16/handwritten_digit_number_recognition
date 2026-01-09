@@ -1,4 +1,4 @@
-# handwritten_digit_number_recognition# Handwritten Multi-Digit Recognition
+Handwritten Multi-Digit Recognition
 
 ## Overview
 This project implements an **end-to-end Optical Character Recognition (OCR)** system for **variable-length handwritten digit sequences** using a **CRNN (Convolutional Recurrent Neural Network)** architecture optimized with **CTC loss**. The model is trained and evaluated on a **synthetic multi-digit MNIST dataset** with controlled digit overlap.
