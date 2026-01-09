@@ -34,4 +34,3 @@ This project implements an **end-to-end Optical Character Recognition (OCR)** sy
 - Low **Character Error Rate (CER)** on validation and test sets
 - Stable convergence under CTC-based optimization
 
-## Project Structure
